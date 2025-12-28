@@ -1,7 +1,7 @@
 
 # MERN Stack Application
 
-This repository contains MY WORK of full-stack web application building using the MERN stack. The project follows a decoupled architecture, separating the client-side interface from the server-side logic to ensure scalability and maintainability.
+This repository contains **MY WORK** of full-stack web application building using the MERN stack. The project follows a decoupled architecture, separating the client-side interface from the server-side logic to ensure scalability and maintainability.
 
 ## Table of Contents
 
