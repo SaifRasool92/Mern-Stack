@@ -114,7 +114,8 @@ To run this project, you will need to add the following environment variables to
 ---
 
 <div align="right">
-<img width="300" alt="my_signature-png" src="https://github.com/user-attachments/assets/2e6ad984-68f1-4281-a288-024a34239b01" />
+<img width="300" alt="my_signature-png" src="https://github.com/user-attachments/assets/5012b07e-0892-4704-bf64-af2ef7ff0660" />
 </div>
+
 
 
