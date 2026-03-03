@@ -118,7 +118,7 @@ To run this project, you will need to add the following environment variables to
     <img
       width="270"
       alt="my_signature"
-      src="https://github.com/user-attachments/assets/2cceab09-90d1-43d7-b2ae-9db15b58a389"
+      src="https://github.com/user-attachments/assets/c22e9252-38be-493e-a50f-65c77d3024bc"
     />
   </a>
 </div>
